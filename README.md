@@ -37,6 +37,6 @@ This is a simple application for managing cinema and selling tickets.
 - Install MySQL
 - Configure Tomcat (root must be "/")
 - Set credential for DB in /resources/db.properties
-- Run (default user created in DataInitializer.cass)
+- Run (default user created in DataInitializer.class)
 ### UML Diagram 
 ![image-name](ticket_app.svg)
