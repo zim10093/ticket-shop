@@ -32,7 +32,7 @@ This is a simple application for managing cinema and selling tickets.
   - Core
   - Security  
   - Web MVC
-### Haw to install
+### How to install
 - Install Tomcat 9 (not 10)
 - Install MySQL
 - Configure Tomcat (root must be "/")
